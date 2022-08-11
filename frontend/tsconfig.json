@@ -7,8 +7,8 @@
       "@env/*": ["app/environments/*"],
       "@components/*": ["app/components/*"],
       "@pages/*": ["app/pages/*"],
-      "@enum/*": ["app/models/enums*"],
-      "@models/*": ["app/models/interfaces*"],
+      "@enum/*": ["app/models/enums/*"],
+      "@models/*": ["app/models/interfaces/*"],
       "@services/*": ["app/services/*"],
       "@shared/*": ["app/shared/*"]
     },
